@@ -1,6 +1,6 @@
 # flutter_exxen_clone
 
-A new Flutter project.
+Videonun boyutundan dolayı kalitesini düşürmek zorunda kaldı. Flutter ile gelişmeye devam ediyorum exxen projesini yaparken bana çok şey kattı çok şey öğretti ve her anından zevk alarak yaptım. Eksik olan 1 2 yeri haricinde birebir aynısını yaptım.
 
 ## Getting Started
 
